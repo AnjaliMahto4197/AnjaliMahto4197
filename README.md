@@ -20,7 +20,6 @@
   </a>
 </p>
 
-> 📌 Upload `CV__Anjali.pdf` in this repository.
 
 ---
 
@@ -128,21 +127,7 @@ I enjoy building practical projects, writing clean code, and solving real-world 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliMahto4197&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliMahto4197&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliMahto4197&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Extra-Curricular Activities
 
